@@ -1,2 +1,7 @@
 build/
 .*/
+
+*.vcxproj*
+
+bin-int
+bin
